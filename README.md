@@ -1,4 +1,5 @@
-Olá, meu nome é Eliézio Mesquita 
+
+<img width="1087" alt="Captura de Tela 2023-08-21 às 12 22 45" src="https://github.com/elimesquita/elimesquita/assets/87777462/d860d485-e2db-423f-831e-94dad0fce964">
 
 
 ## Skill
