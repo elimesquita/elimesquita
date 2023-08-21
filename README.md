@@ -4,4 +4,4 @@ Olá, meu nome é Eliézio Mesquita
 
 
 Repositórios Importantes
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elimesquita&repo=redshift_essential)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elimesquita&repo=redshift-essential)](https://github.com/anuraghazra/github-readme-stats)
