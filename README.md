@@ -1,5 +1,5 @@
 
-<img width="1087" alt="Captura de Tela 2023-08-21 às 12 22 45" src="https://github.com/elimesquita/elimesquita/assets/87777462/d860d485-e2db-423f-831e-94dad0fce964">
+<img width="1083" alt="Captura de Tela 2023-08-22 às 17 42 50" src="https://github.com/elimesquita/elimesquita/assets/87777462/d703c0a4-2f38-4975-8174-aba380dfe7b0">
 
 
 ## Skill
